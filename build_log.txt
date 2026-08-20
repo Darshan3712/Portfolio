@@ -1,0 +1,140 @@
+﻿[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m✓[39m 84 modules transformed.
+node.exe : 
+[31m✗[39m Build 
+failed in 1.41s
+At line:1 char:1
++ & "C:\Program Files
+\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: ([31m✗   
+ [39m Build faile    
+d in 1.41s:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+[31merror during 
+build:
+[31msrc/components/S
+kills.jsx (5:9): 
+"SiVisualstudiocode" 
+is not exported by "n
+ode_modules/react-ico
+ns/si/index.mjs", 
+imported by "src/comp
+onents/Skills.jsx".[
+31m
+file: [36mC:/Users/D
+arshan 
+Jadhav/Desktop/React 
+Projects/Project 2/sr
+c/components/Skills.j
+sx:5:9[31m
+[33m
+3:     FaReact, 
+FaGitAlt, FaGithub
+4: } from 
+'react-icons/fa';
+5: import { 
+SiVisualstudiocode } 
+from 
+'react-icons/si';
+            ^
+6: 
+7: const 
+skillCategories = [
+[31m
+    at 
+getRollupError (file:
+///C:/Users/Darshan%2
+0Jadhav/Desktop/React
+%20Projects/Project%2
+02/node_modules/rollu
+p/dist/es/shared/pars
+eAst.js:402:41)
+    at error (file://
+/C:/Users/Darshan%20J
+adhav/Desktop/React%2
+0Projects/Project%202
+/node_modules/rollup/
+dist/es/shared/parseA
+st.js:398:42)
+    at Module.error (
+file:///C:/Users/Dars
+han%20Jadhav/Desktop/
+React%20Projects/Proj
+ect%202/node_modules/
+rollup/dist/es/shared
+/node-entry.js:17040:
+16)
+    at 
+Module.traceVariable 
+(file:///C:/Users/Dar
+shan%20Jadhav/Desktop
+/React%20Projects/Pro
+ject%202/node_modules
+/rollup/dist/es/share
+d/node-entry.js:17452
+:29)
+    at ModuleScope.fi
+ndVariable (file:///C
+:/Users/Darshan%20Jad
+hav/Desktop/React%20P
+rojects/Project%202/n
+ode_modules/rollup/di
+st/es/shared/node-ent
+ry.js:15070:39)
+    at 
+Identifier.bind (file
+:///C:/Users/Darshan%
+20Jadhav/Desktop/Reac
+t%20Projects/Project%
+202/node_modules/roll
+up/dist/es/shared/nod
+e-entry.js:5447:40)
+    at 
+CallExpression.bind (
+file:///C:/Users/Dars
+han%20Jadhav/Desktop/
+React%20Projects/Proj
+ect%202/node_modules/
+rollup/dist/es/shared
+/node-entry.js:2825:2
+8)
+    at 
+CallExpression.bind (
+file:///C:/Users/Dars
+han%20Jadhav/Desktop/
+React%20Projects/Proj
+ect%202/node_modules/
+rollup/dist/es/shared
+/node-entry.js:12179:
+15)
+    at Property.bind 
+(file:///C:/Users/Dar
+shan%20Jadhav/Desktop
+/React%20Projects/Pro
+ject%202/node_modules
+/rollup/dist/es/share
+d/node-entry.js:2829:
+23)
+    at ObjectExpressi
+on.bind (file:///C:/U
+sers/Darshan%20Jadhav
+/Desktop/React%20Proj
+ects/Project%202/node
+_modules/rollup/dist/
+es/shared/node-entry.
+js:2825:28)[39m

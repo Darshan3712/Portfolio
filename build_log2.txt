@@ -1,0 +1,9 @@
+﻿[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m✓[39m 84 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                 [39m[1m[2m  0.99 kB[22m[1m[22m[2m │ gzip:  0.54 kB[22m
+[2mdist/[22m[35massets/index-NkQDZTWp.css  [39m[1m[2m 18.04 kB[22m[1m[22m[2m │ gzip:  3.87 kB[22m
+[2mdist/[22m[36massets/index-BKqTFEJr.js   [39m[1m[2m265.75 kB[22m[1m[22m[2m │ gzip: 82.84 kB[22m
+[32m✓ built in 3.11s[39m
